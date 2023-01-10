@@ -1,0 +1,129 @@
+
+body{
+
+    font-family: 'Amatic SC', cursive;
+    margin: 0%;
+}
+
+span{
+
+color: rgb(245, 136, 48);
+
+}
+
+
+.one{
+
+background-color: chartreuse;
+border: 2px solid rgb(21, 245, 51);
+border-radius: 5px;
+
+}
+
+.three img{
+
+    width: 50%;
+    padding-left: 17%;
+}
+
+.two {
+
+    display: flex;
+}
+
+
+.chobi img  {
+
+width: 60%;
+padding-top: 10%;
+
+}
+
+.alif{
+
+display: flex;
+
+}
+
+
+.ok{
+
+    margin-right: 10px;
+}
+
+.second{
+
+    font-size: small;
+    
+    padding-right: 20%;
+    padding-top: 5%;
+}
+
+.wrap-banner{
+
+
+background-image: url(./dream-bg.png);
+background-repeat: no-repeat;
+background-position: right;
+
+}
+
+.top-banner{
+
+    background-image: url(./top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.niche{
+
+    padding-top: 5%;
+}
+
+
+.ok{
+
+
+    text-align: center;
+}
+
+
+.bye{
+
+    text-align: center ;
+}
+
+.rong{
+
+    background-color: rgb(104, 240, 41);
+    
+    border-radius: 10px;
+}
+
+.ore{
+
+    border-left: 2px solid rgb(255, 102, 0);
+    padding: 5px;
+}
+
+.sei{
+
+    border-left: 2px solid rgb(255, 102, 0);
+    
+    margin-left: 30px;
+    padding: 5px;
+}
+
+.again{
+
+
+display: flex;
+margin-left: 30px;
+
+
+}
+
+.shadow{
+
+
+    box-shadow: 10px 10px rgb(219, 15, 15);
+}
